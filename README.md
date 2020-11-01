@@ -9,3 +9,6 @@ Today I Learn ~
 - 20.10.23 Spring 실습
 - 20.10.26 Framework: Rest API
 - 20.10.27 Framework: Spring Boot
+- 20.10.28 Algorithm
+- 20.10.29
+- 20.10.30 Algorithm
