@@ -14,3 +14,4 @@ Today I Learn ~
 - 20.10.30 Algorithm
 - 20.11.02 Algorithm
 - 20.11.03 Algorithm : SWEA 5656 벽돌깨기
+- 20.11.04 Algorithm : BJ 2239 스도쿠
