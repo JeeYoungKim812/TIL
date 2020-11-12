@@ -22,3 +22,4 @@ Today I Learn ~
 - 20.11.09 Spring Framework 시험 & Framework PJT
 - 20.11.10 Vue & Spring Debug test (AGAIN)
 - 20.11.11 1110 Vue hw & 
+- 20.11.12 오늘은.. 쉽니다 . . . .
