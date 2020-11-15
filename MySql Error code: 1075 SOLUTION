@@ -23,3 +23,6 @@ create table member(
     address varchar(100) not null,
     cellphone varchar(15)
 );
+
+
+!! auto_increment 속성을 주느 키는 항상 primary key로 지정해주어야 한다
