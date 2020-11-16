@@ -25,3 +25,5 @@ Today I Learn ~
 - 20.11.12 오늘은.. 쉽니다 . . . .
 - 20.11.13 1111 Vue hw & 1112 Vue worksop
 - 20.11.14 1112 Vue hw & 1113 Vue hw
+- 20.11.15 Vue PJT
+- 20.11.16 Vue PJT
