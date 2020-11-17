@@ -1,2 +1,2 @@
 NoticeServiceImpl.java 에서 클래스 정의 위에 @Service 를 추가해주지 않았기 때문에 났던 오류.
-해걸!
+해걸!!
