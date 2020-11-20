@@ -30,3 +30,4 @@ Today I Learn ~
 - 20.11.17 오늘은 쉽니다
 - 20.11.18 FINAL PJT 회의
 - 20.11.19 FINAL PJT: Spring Legacy Project + jsp
+- 20.11.20 FINAL PJT
