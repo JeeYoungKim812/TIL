@@ -16,7 +16,7 @@ Today I Learn ~
 - 20.11.03 Algorithm : SWEA 5656 벽돌깨기
 - 20.11.04 Algorithm : BJ 2239 스도쿠 / SWEA 5643 키 순서
 - 20.11.05 Algorithm : SWEA 2115 벌꿀채취
-- 20.11.06 아이디스 인적성 at Pan-gyo
+- 20.11.06 인적성
 - 20.11.07 hw upload
 - 20.11.08 Spring Framework 공부
 - 20.11.09 Spring Framework 시험 & Framework PJT
@@ -49,3 +49,4 @@ Today I Learn ~
 - 20.12.11 인성면접 전략
 
 - 20.12.14
+- 20.12.15
