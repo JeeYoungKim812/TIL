@@ -50,3 +50,6 @@ Today I Learn ~
 
 - 20.12.14
 - 20.12.15 Opic
+- 20.12.16 채용상담
+- 20.12.17 채용상담 & 면접
+- 20.12.18 백준 단계별로 풀어보기 START! ( https://www.acmicpc.net/step )
