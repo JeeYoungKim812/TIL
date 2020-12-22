@@ -53,3 +53,7 @@ Today I Learn ~
 - 20.12.16 채용상담
 - 20.12.17 채용상담 & 면접
 - 20.12.18 백준 단계별로 풀어보기 START! ( https://www.acmicpc.net/step )
+
+
+- 20.12.21 Git 사용법 익히기
+- 20.12.22 Google Colab을 이용해 Python으로 간단한 얼굴 인식 코드 구현하기
