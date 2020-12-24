@@ -57,3 +57,5 @@ Today I Learn ~
 
 - 20.12.21 Git 사용법 익히기
 - 20.12.22 Google Colab을 이용해 Python으로 간단한 얼굴 인식 코드 구현하기
+- 20.12.23 BlockChain SHA256 by Java
+- 20.12.24 Merry ChristmaS EVE
