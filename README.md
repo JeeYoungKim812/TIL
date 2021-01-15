@@ -75,4 +75,5 @@ Today I Learn ~
 - 21.01.11 팀 첫 회의
 - 21.01.12
 - 21.01.13 vue login, join
-- 21.01.14 vue join, findpassword, error page
+- 21.01.14 vue join, findpassword, error page, gitLab upload & Jira 이슈관리
+- 21.01.15
