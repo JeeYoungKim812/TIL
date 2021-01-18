@@ -77,3 +77,5 @@ Today I Learn ~
 - 21.01.13 vue login, join
 - 21.01.14 vue join, findpassword, error page, gitLab upload & Jira 이슈관리
 - 21.01.15
+
+- 21.01.18 subpjt 2 start !!
