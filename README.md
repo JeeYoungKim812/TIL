@@ -79,4 +79,5 @@ Today I Learn ~
 - 21.01.15
 
 - 21.01.18 subpjt 2 start !!
- 
+- 21.01.19 
+- 21.01.20 Intellij로 서버 연결 성공
