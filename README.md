@@ -82,3 +82,5 @@ Today I Learn ~
 - 21.01.19 
 - 21.01.20 Intellij로 서버 연결 성공
 - 21.01.21 Jsoup으로 웹 크롤링
+
+- 21.01.25 Element, Elements 를 이용해 원하는 태그의 정보를 불러와 분류
