@@ -1,0 +1,5 @@
+### org.hibernate.tool.schema.spi.CommandAcceptanceException: Error executing DDL
+
+Entity field name was matched with databases reserves word form.
+like 테이블을 선언했으나 like라는 단어가 database에 이미 reserved 되어있음.
+테이블 이름 바꿔서 오류 해결
