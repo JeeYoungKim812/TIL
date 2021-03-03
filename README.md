@@ -111,4 +111,5 @@ Today I Learn ~
 - 21.02.25
 - 21.02.26
 
-- 21.03.02 Pandas, nunpy 
+- 21.03.02 Install Python 3.6.8
+- 21.03.03 Python 이용해서 데이터 전처리
