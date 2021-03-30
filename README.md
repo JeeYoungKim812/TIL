@@ -127,3 +127,4 @@ Today I Learn ~
 - 21.03.18 알고리즘
 
 - 21.03.29 v-if v-on
+- 21.03.30 chart.js
