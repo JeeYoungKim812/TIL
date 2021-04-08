@@ -134,3 +134,4 @@ Today I Learn ~
 - 21.04.04 header API 
 - 21.04.05 chart.js chartjs-plugin-zoom 사용한 line chart zoom
 - 21.04.06 vue-chartjs rendering problem 
+- 21.04.07 vue-chartjs rendering problem
