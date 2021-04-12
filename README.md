@@ -105,7 +105,7 @@ Today I Learn ~
 
 - 21.02.18 최종발표!!!!
 
-- 21.02.22 빅데이터 프로젝트 시작
+- 21.02.22 특화 PJT 시작
 - 21.02.23
 - 21.02.24
 - 21.02.25
@@ -136,3 +136,5 @@ Today I Learn ~
 - 21.04.06 vue-chartjs rendering problem 
 - 21.04.07 vue-chartjs rendering problem
 - 21.04.08 파이널
+
+- 21.04.12 자율 PJT 시작
