@@ -6,6 +6,8 @@
 # 🍇목차
 
 > [📓기술면접 준비](https://www.notion.so/594bb3ed76c643ffbcfeb6783a4f380f?v=1f7dce6292b24da093fb29864f024f60)  
+> @Autowired에 관해..
+> 객체지향 프로그래밍
 
 &nbsp;
 &nbsp;
