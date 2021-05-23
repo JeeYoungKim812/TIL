@@ -1,4 +1,0 @@
-java.sql.SQLException: Field ‘id’ doesn’t have a default value
-
---> 해결법
-table drop 후 server 

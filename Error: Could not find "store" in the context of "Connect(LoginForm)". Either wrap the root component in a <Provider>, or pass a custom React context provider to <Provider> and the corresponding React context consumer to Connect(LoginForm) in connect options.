@@ -1,7 +1,0 @@
-## React Provider 오류
-
-React Redux app의 모든 React component를 연결 할 수 있으므로 대부분의 applications는 전체 app's component tree가 내부에 있는 top level 에서 <Provider>를 render할 것이다.
-context : context 인스턴스를 제공할 수 있다. 이렇게 하면 모든 연결된 components의 동일한 context 인스턴스를 제공해야 한다. 올바른 context를 제공하지 않으면 런타임 오류가 발생.
-
-## 해결 방법
-가장 상위 컴포넌트를 <Provider>

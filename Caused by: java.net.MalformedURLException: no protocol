@@ -1,4 +1,0 @@
-## Caused by: java.net.MalformedURLException: no protocol
-
-url에 https:// 안붙어있어서 발생한 에러
-앞에 붙여주기 ~

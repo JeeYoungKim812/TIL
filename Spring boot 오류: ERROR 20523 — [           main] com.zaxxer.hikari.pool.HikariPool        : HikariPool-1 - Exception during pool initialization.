@@ -1,8 +1,0 @@
-## Spring boot 오류: 
-  ERROR 20523 — [           main] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Exception during pool initialization.
-  
-  
-### 해결방법
-application properties에
-spring.datasource.url= ~~~ 부분을
-spring.datasource.url=jdbc:mysql://localhost:3306/[your database name]?serverTimezone=UTC&useUniCode=yes&characterEncoding=UTF-8

@@ -1,4 +1,0 @@
-## Missing URI template variable for method parameter of type string
-
-url로 들어가 있는 userid와 파라미터로 들어가는 id 가 서로 달라서 발생
-PathVariable("boardNo") String No 와 같이 PathVariable에 변수를 할당해주면 해결!

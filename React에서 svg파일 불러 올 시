@@ -1,5 +1,0 @@
-리액트 InvalidCharacterError: Failed to execute 'createElement' on 'Document': The tag name provided ('/static/media/bigLogo.5089e082.svg') is not a valid name.
-
-svg 를 부를 때는  React component 로 불러야한다.
-
-import { ReactComponent as BigLogo } from './bigLogo.svg';

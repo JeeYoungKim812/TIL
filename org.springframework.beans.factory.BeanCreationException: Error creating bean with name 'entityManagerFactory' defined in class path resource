@@ -1,6 +1,0 @@
-org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'entityManagerFactory' defined in class path resource [org/springframework/boot/autoconfigure/orm/jpa/HibernateJpaConfiguration.class]: Invocation of init method failed; nested exception is java.lang.NullPointerException
-
-
---> 해결법
-@Id 어노테이션 클래스 Import 할 때
-javax.persistence 클래스를 임포트 해야한다!
