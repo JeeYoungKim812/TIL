@@ -1,0 +1,4 @@
+## 문제점
+org.springframework.messaging.MessageHandlingException: Missing path template variable 'certificateCode' for method parameter type [class java.lang.String]
+
+## 

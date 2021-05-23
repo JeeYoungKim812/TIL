@@ -1,0 +1,28 @@
+### MySql Error code: 1075 SOLUTION
+
+Error Code: 1075. Incorrect table definition; there can be only one auto column and it must be defined as a key
+
+
+## Error Code
+create table member(
+	no int not null AUTO_INCREMENT,
+    id varchar(20) not null unique,
+    password varchar(20) not null,
+    name varchar(10) not null,
+    address varchar(100) not null,
+    cellphone varchar(15)
+);
+
+
+## Error Solved Code
+create table member(
+	no int not null AUTO_INCREMENT primary key,
+    id varchar(20) not null unique,
+    password varchar(20) not null,
+    name varchar(10) not null,
+    address varchar(100) not null,
+    cellphone varchar(15)
+);
+
+
+!! auto_increment 속성을 주느 키는 항상 primary key로 지정해주어야 한다

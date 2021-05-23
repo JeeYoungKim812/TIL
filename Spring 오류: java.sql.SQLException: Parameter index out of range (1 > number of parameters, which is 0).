@@ -1,0 +1,4 @@
+Spring 오류: java.sql.SQLException: Parameter index out of range (1 > number of parameters, which is 0) 해결법 !!!!
+
+xml 파일의 쿼리문에 '문자열'이라고 생각되어 넣어주었던 '' 나 ""를 지우면 된다.
+쿼리문에 ''나 ""을 넣어야 오류가 안나지만 Spring의 xml 파일에서는 지워줘야 한다! (이상해..)

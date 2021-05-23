@@ -1,0 +1,12 @@
+## Error: React-Hot-Loader: AppContainer should be patched
+
+
+시도한 방법 1.
+yarn-lock 파일과 package-lock.json 파일 삭제 후 
+프로젝트 다시 실행
+--> 해결 안됨
+
+
+시도한 방법 2.
+yarn add -D react-hot-loader@next
+--> 위 오류는 

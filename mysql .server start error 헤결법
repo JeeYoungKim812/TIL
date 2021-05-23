@@ -1,0 +1,11 @@
+## mysql.server start 입력 시 ERROR! The server quit without updating PID file (/usr/local/var/mysql/Brajeshwar.local.pid). 나는 경우 해결법
+
+bash 창에서 
+
+cd /usr/local/var/mysql 
+sudo rm *.err && sudo rm *.pid 
+sudo reboot
+sudo mysql.server start
+
+
+위 순서대로 입력

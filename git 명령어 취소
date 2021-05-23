@@ -1,0 +1,4 @@
+이전 head로 돌아가고 싶을 경우
+1. git reflog 명령어를 통해 head 확인
+2. git reset --hard HEAD@{?}
+?에 돌아가고 싶은 Head 위치 넣기!!
