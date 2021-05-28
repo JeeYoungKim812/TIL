@@ -59,7 +59,13 @@
 
 # Spring MVC 패턴?
 
-- 
+- Model, View, Controller로 나누어 역할을 분할하여 처리하는 패턴입니다.
+  1. 사용자의 request를 Controller가 받습니다.
+  2. Controller는 business logic을 Service와 같이 처리한 후 결과를 Model에 담습니다.
+  3. Model에 저장된 결과를 바탕으로 시각처리를 담당하는 View를 제어하여 사용자에게 전달합니다.
+- MVC 패턴은 2가지 방식으로 나뉩니다. Model1과 Model2
+  - Model1 방식은 Java파일과 <Tag>를 모두 HTML에 작성해 개발합니다. JSP가 모든 요청을 처리합니다.
+  - Model2 방식은 역할을 Controller, Model, View가 모두 나눠서 처리합니다. Controller는 RequestMapping을 통해 URL를 확인하여 바로 View에 던져줄지 Service에 들어가 추가적인 비즈니스 로직을 수행할지 결정하기 때문에 Model1에 비해 확장성도 좋고 유지보수 하기도 간단해집니다.
 
 # REST API
 
