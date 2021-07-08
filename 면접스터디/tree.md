@@ -88,9 +88,15 @@
 
 
 
+# B tree?
+
+- 이진트리를 확장해서 더 많은 수의 자식을 가질 수 있게 일반화한 트리입니다.
+- 한 노드에 m개의 노드가 배치되면 m차 B-tree 라고 합니다. 스스로 균형을 맞추는 트리입니다. 그래서 최악의 경우에도 O(logN)의 성능을 보입니다.
+- 각 노드에 key뿐만 아니라 data도 들어갈 수 있습니다.
 
 # B+ tree?
 
+- B- tree의 변형 구조로 index부분과 leaf노드로 구성된 순차 data 부분으로 이루어집니다. index 부분의 key 값은 leaf의 key값을 찾아가는데 사용하고 모든 key 값은 leaf노드에 나열됩니다.
 - 리프 노드에만 key와 데이터를 저장하고 리프노드끼리 linked list로 연결되어있습니다.
 - 전체 검색 시 리프 노드에 모든 데이터가 있기 때문에 한번의 선형 탐색으로만 원하는 데이터를 찾을 수 있어 B-tree에 비해 빠릅니다.
 
@@ -123,3 +129,5 @@
 이진탐색트리: https://mattlee.tistory.com/30
 
 이진탐색트리 시간복잡도 참고: **https://ict-nroo.tistory.com/63**
+
+[B tree, B+ tree](https://wangin9.tistory.com/entry/B-tree-B-tree)
