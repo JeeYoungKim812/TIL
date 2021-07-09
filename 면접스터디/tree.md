@@ -171,3 +171,5 @@
 이진탐색트리 시간복잡도 참고: **https://ict-nroo.tistory.com/63**
 
 [B tree, B+ tree](https://wangin9.tistory.com/entry/B-tree-B-tree)
+
+[red-black tree](https://zeddios.tistory.com/237)
